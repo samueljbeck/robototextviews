@@ -1,0 +1,12 @@
+/build
+/robototextviews.iml
+.DS_Store
+/.gradle
+/gradlew.bat
+/gradlew
+/gradle
+/.idea
+/.gradle
+/local.properties
+/maven_build.gradle
+/settings.gradle
